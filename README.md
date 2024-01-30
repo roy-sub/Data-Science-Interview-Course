@@ -5,7 +5,7 @@ I started an initiative on LinkedIn in which I post daily data science interview
 The questions can be divided into six categories: machine learning questions, deep learning questions, statistics questions, probability questions, python questions, and resume-based questions.  If you would like to participate in this questions and answers follow me on [LinkedIn](https://www.linkedin.com/in/subhradip-roy/)
 
 
-I started an intuitive on LinkedIn in May 2022 in which I post daily data science interview questions and the answers I got on each post I summarize them and post on the next day in another post. The questions are prepared by me, in addition to others that I received from my connections on LinkedIn. You are more than welcome to send me questions on my [LinkedIn](https://www.linkedin.com/in/subhradip-roy/) profile or email me & at Youssef.Hosni95@outlook.com.
+I started an intuitive on LinkedIn in May 2022 in which I post daily data science interview questions and the answers I got on each post I summarize them and post on the next day in another post. The questions are prepared by me, in addition to others that I received from my connections on LinkedIn. You are more than welcome to send me questions on my [LinkedIn](https://www.linkedin.com/in/subhradip-roy/) profile or email me & at subhrastien@gmail.com.
 
 The main goal of this intuitive is to revise the basics of data science, be prepared for your next interview, and know the expected questions in a data science interview. For better access, the questions and answers are gathered here in this GitHub repository and in these [hashnode articles](https://roysubhradip.hashnode.dev/). They will be updated with new questions daily.
 
